@@ -35,6 +35,7 @@
     align-items: center;
     height: 580px;
     font-family: 'League Spartan', sans-serif;
+    /* font-size: medium; */
 }
 
 .button {
@@ -55,7 +56,7 @@
 }
 
 .div-1{
-    height: 100px;
+    height: 50px;
 }
 
 .button span {
